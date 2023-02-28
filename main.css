@@ -1,0 +1,28 @@
+body {
+    height: 100%;
+    width: 100%;
+    }
+.menu-principal {
+    width: 100%;
+    background-color: #1d1d1d;
+    height: 60px;
+        }
+main{
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+        }
+.logo{
+    width: 76%;
+    padding: 14px;
+    float: left;
+        }
+.redes-sociais ul li {
+    margin-left: 5px;
+    display: inline-block;
+    float: left;
+        }
+.redes-sociais{
+    width: 20%;
+    float: right;
+        }
